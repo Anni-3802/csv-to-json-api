@@ -117,8 +117,8 @@ csv-to-json-api/
 
 attached screenshots
 
-<img width="1855" height="855" alt="image" src="https://github.com/user-attachments/assets/17f10850-8ced-4dfa-a73e-de09e643d690" />
-<img width="1422" height="682" alt="image" src="https://github.com/user-attachments/assets/796e7a15-dc34-4852-9401-d989bd7238ec" />
+<img src="https://github.com/user-attachments/assets/17f10850-8ced-4dfa-a73e-de09e643d690" alt="API Response" width="700">
+<img src="https://github.com/user-attachments/assets/796e7a15-dc34-4852-9401-d989bd7238ec" alt="Database Table" width="700">
 
 
  
