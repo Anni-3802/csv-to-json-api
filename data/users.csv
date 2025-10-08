@@ -1,0 +1,7 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,skills.primary,skills.secondary
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Node.js,React
+Sneha,Patil,28,Flat 21,Green Valley,Mumbai,Maharashtra,female,Python,Flask
+Amit,Sharma,19,Plot 34,Park Street,Delhi,Delhi,male,Java,Spring Boot
+Priya,Verma,45,House 9,Rose Avenue,Chennai,Tamil Nadu,female,JavaScript,Vue.js
+Ramesh,Kumar,61,Flat 45,Lake View,Kolkata,West Bengal,male,C,C++
+    
