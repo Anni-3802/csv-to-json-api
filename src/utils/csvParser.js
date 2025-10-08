@@ -2,7 +2,8 @@ import fs from "fs";
 
 export function parseCSVToJSON(filePath) {
   const data = fs.readFileSync(filePath, "utf-8");
-  const lines = data.split("\n").filter(Boolean);
+  const lines = data.split("\n").filter(line => line.trim() !== "");
+
 
   const headers = lines[0].split(",").map(h => h.trim());
   const jsonData = [];
