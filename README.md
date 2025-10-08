@@ -125,13 +125,6 @@ csv-to-json-api/
 ├── package.json
 └── README.md
 
-
-## Screenshots
-
-### API Response
-![API Response](https://github.com/user-attachments/assets/17f10850-8ced-4dfa-a73e-de09e643d690)
-
-### Database Table View
-![Database Table](https://github.com/user-attachments/assets/796e7a15-dc34-4852-9401-d989bd7238ec)
+ 
 
  
