@@ -115,10 +115,13 @@ csv-to-json-api/
 ├── package.json
 └── README.md
 
-attached screenshots
 
-<img src="https://github.com/user-attachments/assets/17f10850-8ced-4dfa-a73e-de09e643d690" alt="API Response" width="700">
-<img src="https://github.com/user-attachments/assets/796e7a15-dc34-4852-9401-d989bd7238ec" alt="Database Table" width="700">
+## Screenshots
 
+### API Response
+![API Response](https://github.com/user-attachments/assets/17f10850-8ced-4dfa-a73e-de09e643d690)
+
+### Database Table View
+![Database Table](https://github.com/user-attachments/assets/796e7a15-dc34-4852-9401-d989bd7238ec)
 
  
